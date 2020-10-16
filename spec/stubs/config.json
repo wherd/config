@@ -1,0 +1,13 @@
+{
+    "author": {
+        "name": "John Doe",
+        "organization": "Acme Widgets Inc."
+    },
+    "database": {
+        "server": "192.0.2.62",
+        "username": "root",
+        "password": "root",
+        "port": 3306,
+        "persist": false
+    }
+}
