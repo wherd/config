@@ -1,6 +1,6 @@
 {
     "name": "wherd/cache",
-    "description": "Yet another cache wrapper",
+    "description": "Yet another config wrapper",
     "type": "library",
     "require-dev": {
         "kahlan/kahlan": "*",
@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wherd\\Cache\\": "src/"
+            "Wherd\\Config\\": "src/"
         }
     },
     "authors": [

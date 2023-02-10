@@ -1,4 +1,4 @@
-# Database
+# Config
 
 Yet another config wrapper.
 
