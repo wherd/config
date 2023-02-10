@@ -1,5 +1,5 @@
 {
-    "name": "wherd/cache",
+    "name": "wherd/config",
     "description": "Yet another config wrapper",
     "type": "library",
     "require-dev": {
